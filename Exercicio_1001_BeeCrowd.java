@@ -1,5 +1,3 @@
-public
-
 import java.util.Scanner;
 
 public class Exercicio_1001_BeeCrowd {
