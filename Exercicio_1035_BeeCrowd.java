@@ -15,7 +15,6 @@ public class Exercicio_1035_BeeCrowd {
      * Output
      * Show the corresponding message after the validation of the values​​.
      * 
-     * 
      * Attention: For the program to work, you need to change the class to "Main".
      * 
      */

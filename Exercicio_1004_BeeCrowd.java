@@ -16,6 +16,7 @@ public class Exercicio_1004_BeeCrowd {
      * blank space before and after the equal signal.
      * 
      * Attention: For the program to work, you need to change the class to "Main".
+     * 
      */
 
     public static void main(String[] args) throws Exception {
@@ -36,4 +37,3 @@ public class Exercicio_1004_BeeCrowd {
     }
 
 }
-

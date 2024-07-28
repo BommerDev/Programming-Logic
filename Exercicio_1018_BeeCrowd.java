@@ -16,10 +16,8 @@ public class Exercicio_1018_BeeCrowd {
      * Portuguese language, as the given example. Do not forget to print the end of
      * line after each line, otherwise you will receive “Presentation Error”.
      * 
-     * 
      * Attention: For the program to work, you need to change the class to "Main".
      *
-     * 
      */
 
     public static void main(String[] args) throws Exception {

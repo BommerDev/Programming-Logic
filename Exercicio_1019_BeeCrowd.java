@@ -13,7 +13,6 @@ public class Exercicio_1019_BeeCrowd {
      * Print the read time in the input file (seconds) converted in
      * hours:minutes:seconds like the following example.
      * 
-     * 
      * Attention: For the program to work, you need to change the class to "Main";
      * 
      */

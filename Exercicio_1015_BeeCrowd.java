@@ -19,7 +19,6 @@ public class Exercicio_1015_BeeCrowd {
      * Calculate and print the distance value using the provided formula, with 4
      * decimal places.
      * 
-     * 
      * Attention: For the program to work, you need to change the class to "Main".
      * 
      */
